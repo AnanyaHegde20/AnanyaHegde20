@@ -22,6 +22,13 @@ I enjoy solving real-world problems using modern technologies and AI-driven
 
 ---
 
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,react,html,css,tailwind,nodejs,express,flask,flutter,mysql,firebase,supabase,tensorflow,git,github,vscode" />
+</p>
+
 ## 🚀 Tech Stack
 
 ### 💡 Languages
