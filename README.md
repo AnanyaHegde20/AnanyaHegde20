@@ -29,7 +29,6 @@ I enjoy solving real-world problems using modern technologies and AI-driven
   <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,react,html,css,tailwind,nodejs,express,flask,flutter,mysql,firebase,supabase,tensorflow,git,github,vscode" />
 </p>
 
-## 🚀 Tech Stack
 
 ### 💡 Languages
 Java | Python | Dart | JavaScript | TypeScript
