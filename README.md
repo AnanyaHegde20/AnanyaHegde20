@@ -10,24 +10,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Building+Scalable+Web+Applications;AI+Driven+Solutions;Flutter+%7C+React+%7C+Python;Always+Learning+New+Technologies" />
 </p>
 
+---
 
-
-
-
-
-
-
-<p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=25&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Ananya+Hegde+👋;Welcome+to+my+GitHub!)
-
-</p>
-
-
-## 💻Software Engineer | Full-Stack Developer | AI Enthusiast
+### 👩‍💻 About Me
 
 Passionate software developer skilled in building scalable web and mobile applications.  
-I love solving real-world problems using modern technologies and AI-based solutions.
+
+I enjoy solving real-world problems using modern technologies and AI-driven
+
+
 
 ---
 
