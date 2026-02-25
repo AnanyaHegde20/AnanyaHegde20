@@ -15,18 +15,10 @@
 ### 👩‍💻 About Me
 
 Passionate software developer skilled in building scalable web and mobile applications.  
-
 I enjoy solving real-world problems using modern technologies and AI-driven
-
-Aspiring Software Engineer with hands-on experience in full-stack development for web and mobile applications
-and AI projects through academics and internship. Built systems using React, HTML, CSS, Flutter, Python, MySQL,
-TensorFlow, and Supabase, including face recognition and plant disease detection solutions. Eager to apply technical
-skills and grow as a software engineer.
-
 
 
 ---
-
 
 ## 🚀 Tech Stack
 
