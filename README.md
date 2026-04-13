@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Building+Scalable+Web+Applications;AI+Driven+Solutions;Flutter+%7C+React+%7C+Python+%7C+Java;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines= Building+Scalable+Web+Applications;AI+Driven+Solutions;Flutter+%7C+React+%7C+Python+%7C+Java;Always+Learning+New+Technologies" />
 </p>
 
 ---
