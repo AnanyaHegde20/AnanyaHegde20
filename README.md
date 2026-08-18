@@ -92,11 +92,13 @@ Git | GitHub | REST Architecture | SDLC | Agile | OOP | DSA
 
 ## 🎓 Certifications
 
+- Java Full Stack Development - Jspider
 - Android App Development – Corizo  
 - Generative AI – Microsoft  
 - Web Development Bootcamp – DevTown  
 - Python & DSA – Infosys Springboard  
-- IEEE Primed Hackathon Participant  
+- IEEE Primed Hackathon Participant
+- Hackathon Participant at CEC 
 
 ---
 
