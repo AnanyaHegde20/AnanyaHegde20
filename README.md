@@ -33,7 +33,7 @@ TypeScript | JavaScript | Python | Java
 Next.js | React | Tailwind CSS | HTML
 
 ### 🔧 Backend
-NestJS | Node.js | REST APIs | JWT Authentication | RBAC
+NestJS | Node.js | REST APIs | JWT Authentication
 
 ### 🗄️ Database
 MongoDB | MySQL | Supabase
