@@ -14,8 +14,6 @@
 
 ### 👩‍💻 About Me
 
-### 👩‍💻 About Me
-
 Full Stack AI Engineer passionate about building scalable, secure, and intelligent web applications. Experienced in developing production-grade applications using Next.js, React, NestJS, TypeScript, Java, MongoDB, and Docker. I enjoy solving real-world problems by combining modern full-stack technologies with AI-driven solutions, including OCR-based document processing and intelligent data extraction. Currently focused on building reliable software, writing clean APIs, improving user experiences, and delivering quality through testing and CI/CD.
 
 
