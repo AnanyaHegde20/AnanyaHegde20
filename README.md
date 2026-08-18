@@ -23,30 +23,32 @@ I enjoy solving real-world problems using modern technologies and AI-driven
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,react,html,css,tailwind,nodejs,express,flask,flutter,mysql,firebase,supabase,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,html,nestjs,nodejs,mongodb,mysql,supabase,docker,gcp,git,github,githubactions,vscode" />
 </p>
 
-
 ### 💡 Languages
-Java | Python | Dart | JavaScript | TypeScript
+TypeScript | JavaScript | Python | Java
 
 ### 🌐 Frontend
-React | HTML | CSS | Tailwind CSS
+Next.js | React | Tailwind CSS | HTML
 
 ### 🔧 Backend
-Node.js | Express.js | Flask
+NestJS | Node.js | REST APIs | JWT Authentication | RBAC
 
-### 📱 Mobile Development
-Flutter
+### 🗄️ Database
+MongoDB | MySQL | Supabase
 
-### 🗄️ Database & Cloud
-MySQL | Firebase | Supabase
+### 🤖 AI & Intelligent Systems
+AI-driven Document Processing | OCR | Multi-modal Data Extraction
 
-### 🤖 AI / ML
-TensorFlow | face-api.js | NumPy
+### 🧪 Testing
+Playwright E2E | Unit Testing | Manual Testing
 
-### 🛠️ Tools
-Git | GitHub | Vercel | VS Code
+### ☁️ DevOps & Cloud
+Docker | GitHub Actions | CI/CD | GCP
+
+### 🛠️ Tools & Concepts
+Git | GitHub | VS Code | REST Architecture | SDLC | Agile | OOP | DSA
 
 ---
 
