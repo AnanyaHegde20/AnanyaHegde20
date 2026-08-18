@@ -14,8 +14,6 @@
 
 ### 👩‍💻 About Me
 
-### 👩‍💻 About Me
-
 Passionate Full Stack AI Engineer who enjoys building practical solutions and solving real-world problems. I’m always eager to learn, grow, and create meaningful software that makes a difference. Driven by curiosity, continuous learning, and a passion for turning ideas into impactful solutions.
 
 
