@@ -23,7 +23,7 @@ Passionate Full Stack AI Engineer who enjoys building practical solutions and so
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,html,nestjs,nodejs,mongodb,mysql,supabase,docker,gcp,git,github,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,html,nestjs,nodejs,mongodb,mysql,supabase,docker,gcp,git,github,githubactions" />
 </p>
 
 ### 💡 Languages
@@ -48,7 +48,7 @@ Playwright E2E | Unit Testing | Manual Testing
 Docker | GitHub Actions | CI/CD | GCP
 
 ### 🛠️ Tools & Concepts
-Git | GitHub | VS Code | REST Architecture | SDLC | Agile | OOP | DSA
+Git | GitHub | REST Architecture | SDLC | Agile | OOP | DSA
 
 ---
 
