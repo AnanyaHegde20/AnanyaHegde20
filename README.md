@@ -55,7 +55,11 @@ Git | GitHub | REST Architecture | SDLC | Agile | OOP | DSA
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnanyaHegde20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaHegde20&show_icons=true&theme=tokyonight&hide_border=true" alt="Ananya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaHegde20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
