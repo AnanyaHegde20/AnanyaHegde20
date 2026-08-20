@@ -55,7 +55,7 @@ Git | GitHub | REST Architecture | SDLC | Agile | OOP | DSA
 ## 📊 GitHub Analytics 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnanyaHegde20&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=AnanyaHegde20&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
