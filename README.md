@@ -58,6 +58,7 @@ Git | GitHub | REST Architecture | SDLC | Agile | OOP | DSA
   <img src="https://streak-stats.demolab.com?user=AnanyaHegde20&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+
 ---
 
 ## 🎓 Certifications
