@@ -60,38 +60,6 @@ Git | GitHub | REST Architecture | SDLC | Agile | OOP | DSA
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧠 Face Recognition Attendance System
-- Built using React, TypeScript, Node.js, Supabase
-- Secure face recognition using face-api.js
-- GPS + QR verification
-- Real-time attendance reports
-🔗 https://face-attendance-system-nu.vercel.app
-
----
-
-### 📱 Hostel Management Application
-- Developed using Flutter & Firebase
-- Student registration and room management
-- Admin dashboard & real-time updates
-
----
-
-### 🌿 Plant Disease Detection System
-- Developed using Python, Flask, TensorFlow
-- Image-based disease prediction
-- Machine Learning classification model
-
----
-
-### 🩸 Blood Bank Management System
-- Developed using Python, Flask, SQL
-- Donor & Admin modules
-- Blood availability tracking system
-
----
-
 ## 🎓 Certifications
 
 - Java Full Stack Development - Jspider
